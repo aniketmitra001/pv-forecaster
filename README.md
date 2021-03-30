@@ -14,7 +14,7 @@ The model weights are optimized using a back-propogation step
 
 ### Training 
 
-```python3 fit.py --input_file ../solar-dataset.pq --filter_criteria 2017 --num_steps 500 --output_file forecasting_model```
+```python3 fit.py --input_file solar-dataset.pq --filter_criteria 2017 --num_steps 500 --output_file forecasting_model```
 
 ## Prediction
 
